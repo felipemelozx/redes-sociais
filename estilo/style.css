@@ -47,4 +47,13 @@ section#sociais img:hover{
     transform: translate(-8px, -8px);
     box-shadow: 5px 6px 10px rgba(0, 0, 0, 0.400);
     transition: transform 0.4s, border .4s;
+} 
+
+
+iframe#tela {
+    position: relative;
+    top: 80px;
+    left: 22px;
+    width: 271px;
+    height: 471px;
 }
